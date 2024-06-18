@@ -1,3 +1,9 @@
-body{
-    background-color: #f0f0f0;
+body {
+    font-family: Arial, sans-serif;
+    width: 70%;
+    text-align: justify;
+    background-color: gray;
+}
+#resultado {
+    margin-top: 20px;
 }
